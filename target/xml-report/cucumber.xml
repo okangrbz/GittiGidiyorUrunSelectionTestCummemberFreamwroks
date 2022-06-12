@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="28.921">
+    <testcase classname="US01 Gittigidiyor urun kontrol testi" name="TC01 gittigidiyor urun ekleme testi" time="28.658">
+        <system-out>
+            <![CDATA[Given kullanici "gittiUrl" sayfasina gider..................................passed
+And Arama kutucuğuna "bilgisayar" kelimesi girer............................passed
+Then Arama sonuçları sayfasından 2.sayfa açar...............................passed
+And Sonuca göre sergilenen ürünlerden rastgele bir ürün seçer...............passed
+And Seçilen ürünün ürün bilgisi ve tutar bilgisi txt dosyasına yazar........passed
+And Seçilen ürün sepete ekler...............................................passed
+And Ürün sayfasındaki fiyat ile sepette yer alan ürün fiyatının doğruluğu karşılaştırır..passed
+And Adet arttırılarak ürün adedinin 2 olduğu doğrular.......................passed
+And Ürün sepetten silinerek sepetin boş olduğu kontrol eder.................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>

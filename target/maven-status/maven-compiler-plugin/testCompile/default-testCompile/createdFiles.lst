@@ -1,0 +1,6 @@
+Pages/GittiGidiyor.class
+Utillies/ConfigReader.class
+runners/TestRunner.class
+Utillies/Driver.class
+StepDefinition/Hooks.class
+StepDefinition/GittiGidiyorStepDefinition.class
