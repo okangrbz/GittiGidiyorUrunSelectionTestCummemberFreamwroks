@@ -1,0 +1,191 @@
+Genel Tekrar
+
+Soru 1
+
+1. https://www.hotelmycamp.com sayfasina gidelim
+
+2. Cucumber parametre ,cucumber scenario outline ve TestNg framework @Dataprovider kullanarak asagidaki gorevi tamamlayin
+
+- Login tusuna basin
+
+- Asagidaki 5 kullanici adi ve sifreyi deneyin ve login olmadigini test edin
+
+- Manager – Manager
+
+- Manager1- Manager1
+
+- Manager2 - Manager2
+
+- Manager3 - Manager3
+
+- Manager4 – Manager4 Test NG
+
+Genel Tekrar
+
+Soru 2
+
+1. http://automationpractice.com/index.php sayfasina gidelim
+
+2. Cucumber ile asagidaki testi yapalim Given user web sayfasinda And user sign in linkine tiklar And user Create and account bölümüne email adresi girer And Create an Account butonuna basar And user kisisel bilgilerini ve iletisim bilgilerini girer And user Register butonuna basar Then hesap olustugunu dogrulayin Test NG
+
+Genel Tekrar
+
+Soru 3
+
+1. http://automationpractice.com/index.php sayfasina gidelim
+
+2. Cucumber ile asagidaki testi yapalim
+
+- Given user web sayfasinda
+
+- And user sign in linkine tiklar
+
+- And email kutusuna @isareti olmayan email adresi yazar ve enter'a tiklar
+
+- Then error mesajinin “Invalid email address” oldugunu dogrulayin Test NG
+
+Genel Tekrar
+
+Soru 4
+
+1. http://demo.guru99.com/test/web -table-element.php sayfasina gidelim
+
+2. Cucumber framework’de US1012_Guru_Web_Tables olusturun
+
+3. Scenario : TC_16_kullanici_liste_alabilmeli asagidaki testi yapin Given user web sayfasinda Then Company listesini consola yazdirir And DCB Bank'in listede oldugunu test eder Test NG
+
+Genel Tekrar
+
+Soru 5
+
+1. http://demo.guru99.com/test/web -table-element.php sayfasina gidelim
+
+2. Cucumber framework’de US1012_Guru_Web_Tables altinda Scenario : TC_17_kullanici_sirket_Prev_Close_alabilmeli olusturun ve asagidaki testi yapin Given user web sayfasinda And “Istenen Sirket” Prev.Close degerini yazdirir Test NG
+
+Genel Tekrar
+
+Soru 6
+
+1. http://demo.guru99.com/test/web -table-element.php sayfasina gidelim
+
+2. Cucumber framework’de US1012_Guru_Web_Tables altinda Scenario : TC_18_kullanici_satir_sutun_degeri_ile_yazi_alabilmeli olusturun ve asagidaki testi yapin Given user web sayfasinda And “Istenen Satir”, “Istenen Sutun” daki yaziyi yazdirir Test NG
+
+Genel Tekrar
+
+Soru 7
+
+1. http://demo.guru99.com/test/web -table-element.php sayfasina gidelim
+
+2. Cucumber framework’de US1012_Guru_Web_Tables altinda Scenario : TC_18_kullanici_sutun_basligi_ile_liste_alabilmeli olusturun ve asagidaki testi yapin Given user web sayfasinda And “Istenen Baslik”, sutunundaki tum degerleri yazdirir Test NG
+
+Genel Tekrar
+
+Soru 8
+
+1) Yeni bir class olusturalim D34_readExcel
+
+2) Baskentler excelini framework’e ekleyelim ve excelle ilgili islemleri yaparak dosyayi kullanilabilir hale getirelim
+
+- 1.satirdaki 2.hucreye gidelim ve yazdiralim
+
+- 1.satirdaki 2.hucreyi bir string degiskene atayalim ve yazdiralim
+
+- baskenti Jakarta olan ulke ismini yazdiralim
+
+- Ulke sayisini bulalim
+
+- Fiziki olarak kullanilan satir sayisini bulun
+
+- Tum bilgileri map olarak kaydedelim
+
+- baskenti Jakarta olan ulkenin tum bilgilerini yazdiralim
+
+- Satir ve sutun bilgisi ile hucre yazdiralim Test NG
+
+Genel Tekrar
+
+Soru 9
+
+Yeni bir Class olusturalim D34_WriteExcel
+
+1)Yeni bir sutun olusturalim
+
+- baslik satirinda ilk bos hucreye yeni bir cell olusturalim
+
+- Olusturdugumuz hucreye “ulke nufusu” yazdiralim
+
+- 2.satir ulke nufusu kolonuna “1,5 milyar” yazdiralim
+
+- 8.satir nufus kolonuna 250 milyon yazdiralim
+
+- Dosyayi kaydedelim
+
+- Dosyayi kapatalim Test NG
+
+Genel Tekrar
+
+Soru 10
+
+Yeni bir Class olusturalim Day36_ExplicitlyWait
+
+1) https://demoqa.com/browser -windows adresine gidin
+
+2) Alerts’e tiklayin
+
+3) On button click, alert will appear after 5 seconds karsisindaki click me butonuna basin
+
+4) Allert’in gorunur olmasini bekleyin
+
+5) Allert uzerindeki yazinin “This alert appeared after 5 seconds” oldugunu test edin
+
+6) Ok diyerek alerti kapatin Test NG
+
+Genel Tekrar
+
+Soru 11
+
+Yeni bir test methodu olusturun
+
+1) https://demoqa.com/dynamic -properties adresine gidin
+
+2) “Will enable 5 seconds” butonunun enable olmasini bekleyin
+
+3) “Will enable 5 seconds” butonunun enable oldugunu test edin Test NG
+
+Genel Tekrar
+
+Soru 12
+
+Yeni bir test methodu olusturun
+
+1) https://demoqa.com/dynamic -properties adresine gidin
+
+2) “Will enable 5 seconds” butonunun enable olmasini bekleyin
+
+3) “Will enable 5 seconds” butonunun enable oldugunu test edin Test NG
+
+Genel Tekrar
+
+Soru 13
+
+Yeni bir test methodu olusturun https://demoqa.com/dynamic -properties adresine gidin
+
+1) “Visible After 5 seconds” butonunun gorunur olmasini bekleyin
+
+2) “Visible After 5 seconds” butonunun gorunur oldugunu test edin Test NG
+
+Genel Tekrar
+
+Soru 14
+
+Yeni bir test methodu olusturalim https://the-internet.herokuapp.com/add_remove_elements/ adresine gidin
+
+1) “Add Element” butona basin
+
+2) “Delete” butonu gorunur oluncaya kadar bekleyin
+
+3) “Delete” butonunun gorunur oldugunu test edin
+
+4) Delete butonuna basarak butonu silin
+
+5) Delete butonunun gorunmedigini test edin
